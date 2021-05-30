@@ -1,5 +1,7 @@
 # CSGO Config
 
+
+
 ## Autoexec
 
 ### Quickstart
@@ -15,6 +17,16 @@ You may want to modify
 - Knife fast switch `line 230`
 - HUD Color `line 103`
 - Bind Console `line 32`
+
+## Simple Radar 
+
+Locate your enemy with precision and learn callouts to improve your team communication with this easy-to-install CS:GO radar.
+
+[Download here](https://readtldr.gg/simpleradar)
+
+![Simple Radar](https://i.imgur.com/bScaumF.png)
+
+
 
 ## Best looking 4:3 resolution
 

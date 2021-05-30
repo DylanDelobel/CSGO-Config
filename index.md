@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# CSGO Config
 
-You can use the [editor on GitHub](https://github.com/DylanDelobel/CSGO-Config/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Autoexec
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quickstart
 
-### Markdown
+Download the zip files, extract `autoexec.cfg` into
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+````powershell
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+````
 
-```markdown
-Syntax highlighted code block
+You may want to modify 
 
-# Header 1
-## Header 2
-### Header 3
+- Knife fast switch `line 230`
+- HUD Color `line 103`
+- Bind Console `line 32`
 
-- Bulleted
-- List
+## Best looking 4:3 resolution
 
-1. Numbered
-2. List
+### NVIDIA
 
-**Bold** and _Italic_ and `Code` text
+Here's all the common widescreen resolutions and all the best looking 4:3 resolutions.
 
-[Link](url) and ![Image](src)
-```
+| Native        | Ratio    | Best          | Ratio   |
+| ------------- | -------- | ------------- | ------- |
+| 1366x768      | 16:9     | 1024x768      | 4:3     |
+| **1920x1080** | **16:9** | **1440x1080** | **4:3** |
+| 2560x1440     | 16:9     | 1920x1440     | 4:3     |
+| 3840x2160     | 16:9     | 2880x2160     | 4:3     |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Right click your Desktop and open `NVIDIA Control Panel`
 
-### Jekyll Themes
+Under `Display > Change Resolution` click `Customize...`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DylanDelobel/CSGO-Config/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![sadf](https://i.imgur.com/nR5OYm4.png)
 
-### Support or Contact
+### AMD
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+🤷

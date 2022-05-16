@@ -50,3 +50,20 @@ Under `Display > Change Resolution` click `Customize...`
 ### AMD
 
 🤷
+
+## How to get CS:GO 4:3 with black bars or stretched?
+
+The display aspect ratio and use of black bars is up to individual preference. There isn't one optimal way for all. Some pro players prefer stretching, black bars, or full screen. 
+
+The following chart lists all configuration parameters for different display settings.
+
+### NVIDIA
+
+![1616660823081](https://user-images.githubusercontent.com/5182186/168655491-4e3d89c1-4047-4c93-86b5-30dae2b59041.jpg)
+
+If you are using Nvidia graphics card and prefer to adjust by display, open the control panel > to perform scaling on "Display" > select "full-screen" mode
+
+### AMD
+
+![1616660838649](https://user-images.githubusercontent.com/5182186/168655524-1c08d207-01e6-4220-9515-58b15d579787.jpg)
+
